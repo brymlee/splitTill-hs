@@ -1,0 +1,3 @@
+[submodule "walkTill-hs"]
+	path = walkTill-hs
+	url = git@github.com:brymlee/walkTill-hs.git
